@@ -1,0 +1,2 @@
+# Ignore public test JWT key
+src/utils/supabase/info.tsx:jwt:4
