@@ -1,7 +1,7 @@
 
   # Event Vendor Search App
 
-  This is a code bundle for Event Vendor Search App. The original project is available at https://www.figma.com/design/sNs6A2drRl8HwvxbyNazEi/Event-Vendor-Search-App.
+  This is a code bundle for Event Vendor Search App. 
 
   ## Running the code
 
